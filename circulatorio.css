@@ -1,0 +1,72 @@
+h1{
+    color: #8b0000;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 3px 4px 8px
+    navy;
+
+}
+p{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+color: navy;
+    
+}
+div{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 6px 4px 34px black;
+    text-align: center;
+    background: linear-gradient(#ff735a, #add8e6,#c5a1ff);
+    border: solid red;
+}
+li{
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dos-colores{
+    border: none;
+    height: 10px;
+    background: linear-gradient(to right, #ff0000 50%, #009ee8 50% );
+}
+.contenedor-imagen{
+    border: 4px solid #c62828;
+    border-radius: 10px;
+    box-shadow: 5px 4px 15px gray;
+}
+.contenedor-imagen{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+img{
+    width: 60px;
+    border-radius: 30px;
+    margin-top: 20px;
+    
+}
+h2{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 3px 5px 2px black;
+}
+h4{
+    text-align: center;
+    color: darkred;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: center;
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+body{
+    background: linear-gradient(to right, #add8e6, #ff6666);
+}
+
+    
+

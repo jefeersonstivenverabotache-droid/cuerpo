@@ -1,0 +1,57 @@
+h1{
+  color: cyan;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-shadow: 5px 3px 2px navy;
+}
+h2{
+  color: pink;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-shadow: 2px 4px 3px black;
+} 
+div{
+  display: flex;
+  flex-direction: row;
+  border-radius: 50px;
+  text-align: center;
+  background-color: skyblue;
+  border: solid red;
+  border-radius: 10px;
+}
+p{
+  color: purple;
+}
+img{
+  width: 40%;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+margin-top: 20px;
+  
+}
+li{
+  color: darkred;
+}
+h3{
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #d19;
+  text-shadow: 4px 5px 9px black;
+}
+.aire{
+  color: red;
+  border-radius: 34px;
+  background: salmon;
+  text-align: center;
+  text-shadow: 4px 5px 8px white;
+} 
+  
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj4f2JZinnVHK4OL74tusfFiOJOFTd75y6PlHm8-oCsrPy2Zjuth2Mr5y&s=10);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

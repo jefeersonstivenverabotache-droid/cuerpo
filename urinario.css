@@ -1,0 +1,44 @@
+h1{
+  text-align: center;
+  color: #8c1e7f;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-shadow: 3px 4px 8px black;
+}
+div {
+  display: flex;
+  flex-direction: row;
+  border-radius: 20%;
+  background: #722f37;
+  text-align: center;
+  color: white;
+  box-shadow: 11px 13px 10px black;
+}
+h2{
+  text-align: center;
+  color: gold;
+text-shadow: 4px 2px 7px black;
+}
+img{
+  display: block;
+margin: 30px auto 0 auto;
+border-radius: 20px;
+}
+.urinario{
+ border-radius:  40px;
+ border: solid  darkred 10px;
+  background: #dc0044;
+  box-shadow: 11px 13px 16px black;
+}
+.cajasistema{
+  text-align: center;
+  border-radius: 40px;
+  background: #e53d6d;
+  border: solid red 10px;
+  box-shadow: 11px 12px 15px black;
+}
+body{
+  background: linear-gradient(to right, #d80300, #e5497e);
+}
+
+    
+}

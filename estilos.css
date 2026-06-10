@@ -1,0 +1,21 @@
+.menu{
+    background: rgb(14, 31, 29);
+    font-family: 'Times New Roman', Times, serif;
+}
+.menu a{
+    text-decoration: none;
+    color: blue;
+    display: block;
+    padding: 10px;
+    margin: 5px;
+}
+.menu ol{
+    list-style: none;
+}
+.menu li{
+    position: relative;
+}
+.menu ol li a:hover{
+    background-color: salmon;
+
+}
